@@ -1,2 +1,23 @@
-# Auto detect text files and perform LF normalization
 * text=auto
+*.cs text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.svg text eol=lf
+*.meta text eol=lf
+*.unity text eol=lf
+*.prefab text eol=lf
+*.asset text eol=lf
+*.mat text eol=lf
+*.anim text eol=lf
+*.controller text eol=lf
+*.png binary
+*.jpg binary
+*.tif binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
+*.ttf binary
+*.dll binary
+*.aar binary
+*.jar binary

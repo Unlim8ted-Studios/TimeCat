@@ -1,0 +1,35 @@
+# Unity-generated files
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/UserSettings/
+/Build/
+/Builds/
+/MemoryCaptures/
+/Recordings/
+
+# Editors and local tools
+/.vs/
+/.idea/
+/.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.opendb
+*.VC.db
+*.log
+.DS_Store
+Thumbs.db
+__pycache__/
+.venv/
+
+# Local signing credentials
+*.keystore
+*.jks
+*.p12
+*.pfx

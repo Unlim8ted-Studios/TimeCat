@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Button
+  - ButtonBase
+  - Ground
+  - NonTraversable
+  - Box
+  - SoftlockPrev
+  - TimeBox
+  - Death
+  - Mobile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Climbable
+  - noCollideWithPlayer
+  - Player
+  - rainCollider
+  - ButtonStopper
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: liquid
+    uniqueID: 3535491787
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1406236027
+    locked: 0
+  - name: NoShadow
+    uniqueID: 4040229029
+    locked: 0
+  - name: above
+    uniqueID: 3086780081
+    locked: 0
+  - name: UI
+    uniqueID: 4072846683
+    locked: 0

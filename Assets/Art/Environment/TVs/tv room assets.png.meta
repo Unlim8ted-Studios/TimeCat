@@ -1,0 +1,2973 @@
+fileFormatVersion: 2
+guid: 4cce2934f99fa484c99a9819cda3c0d7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tv room assets_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 752
+        width: 320
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544f21819821e19429464eaa26ddcd26
+      internalID: 1218493776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 753
+        width: 299
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742822b4ac92faf44bbdc401f6b9706b
+      internalID: 728511354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_2
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 757
+        width: 296
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5fc6a3a3841434883bd2c42f626b11
+      internalID: 1750135148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_3
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 612
+        width: 296
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7597e8048b246145a1516b1c0ee17ac
+      internalID: 738677157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 461
+        width: 135
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05eea6038108614c9bba766bfe34b9b
+      internalID: 287903453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 496
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f147aa9d7ab32be468bea688f9ce5e71
+      internalID: 1275311269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_6
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 512
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a695a71107aa6f84381c1af7cd4ce5a5
+      internalID: -56718071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_7
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 505
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a2053d47f3d2242b7845a9d77f7d58
+      internalID: 1879059760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_8
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 512
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06416b4318a71534a95a23594695bbc0
+      internalID: 1366583663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_9
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 462
+        width: 100
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44d627b7f7dc61469c88a382204aa21
+      internalID: -3974316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_10
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 452
+        width: 295
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c56082f12a49a4098a2ecb2bb450b7
+      internalID: 1724484245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_11
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 500
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bcff99b3c36ee4daad00dd01857bdc
+      internalID: -386052001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 432
+        width: 234
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af8c42ce938f2d42a40de661cc2052b
+      internalID: -1013411320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 456
+        width: 85
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c228e2319c3c98f48900bcebaaa3fa91
+      internalID: 1612758143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_14
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 490
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18f9b3c9be2fb74fb64a15a2292995c
+      internalID: -240246862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_15
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 486
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05eaebfe4da96aa4ea1919af630fe18b
+      internalID: 1966959012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 448
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e4d0a69d789b447abc6a16cf8f0dc0
+      internalID: -118751437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_17
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 464
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b2a072e4fa8944eb78680888d6b7a6
+      internalID: -1466179912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 469
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c96a0b763253c47a172bcae40cc023
+      internalID: -1341377695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_19
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 464
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cf72f1b2083fc4c999526a7fe02813
+      internalID: 1491532235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_20
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 452
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8e1e5e9f4a3b1478aa45f46a68af97
+      internalID: -1336050427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_21
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 447
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915a76110f2a2a9499a8a30f1b3b22fb
+      internalID: 883972665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_22
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 455
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd3d7dac3fa77b44ac2211fd50b6814
+      internalID: 1226475141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_23
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 448
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7b9f5f03c997b47b2671d5f5f5f3e7
+      internalID: -684861923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 442
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e541fe0f535f934a9f9befe68e68cea
+      internalID: -463508996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_25
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 448
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66bc5ccd840e1a41b70ff2007bd56d7
+      internalID: 488620006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_26
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 391
+        width: 59
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a0a664642d09f43b4fbcfd60bb119d
+      internalID: 1239450230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_27
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 429
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c900df5a46e5edf4d841c92914310c1f
+      internalID: 1493097184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_28
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 424
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3533554ea6bdd934d99cfb89a0a83bf7
+      internalID: 165412062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_29
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 408
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e589c12de9e1c438c5a301c13fd640
+      internalID: 1074071439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_30
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 408
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1666ef6cb2a52e640933d5892b2e7c88
+      internalID: 336402740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_31
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 408
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224ffdb7a1f189d4a8ce9b25fd8f744f
+      internalID: -138624387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_32
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 391
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6f8621cb393214d83fa3fd55425406
+      internalID: 265228068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_33
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 406
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b37838b827d1214bae84fc8fdead507
+      internalID: 2142840197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_34
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 416
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0ab9df521c46e43b91635cb10f6a7c
+      internalID: -1531685873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_35
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 408
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c481039d0f1c254f87909c7faa78644
+      internalID: -1204067199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_36
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 403
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1371f878d868f4bb569e53f042900e
+      internalID: 635545886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_37
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 224
+        width: 227
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e87e69942c3e3945b4bfafa835bda08
+      internalID: -586193907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_38
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 408
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085238237af6faf478b8f3f52226b914
+      internalID: -1994077202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_39
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 384
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ba2f5bbf7e927439f64bdf7b66bb38
+      internalID: -1656540284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_40
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 400
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52b2291e53ba1c4795370c645f346be
+      internalID: 1767130866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_41
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 400
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915ff792496ae604ba0ba3370aa69a42
+      internalID: 1325235998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_42
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 375
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9672867de7ce11a42b55669043bb4445
+      internalID: -1617669811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_43
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 402
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc977c0643db6a542bbde0f8c1a88029
+      internalID: 453726483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_44
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 335
+        width: 146
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6ceb41690c26c4992ede5f724fe441
+      internalID: -2076078385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_45
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 406
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d42ff5291a7b91488e86dade7586205
+      internalID: -633489884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_46
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 402
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f23bc33dac4ef4eb445919ea68d135
+      internalID: -1538732906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_47
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 392
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f5f1aec104c9445b74d2d2a1aa32a0
+      internalID: 359798959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_48
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 381
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9c70bad61a5834bac1fedebebfb1f4
+      internalID: 603746532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_49
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 374
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4df37c7e99eb4f48b6bba672f2b0a69
+      internalID: -481114686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_50
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 321
+        width: 194
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e71fe4cadaf1f4294051f6f9b052e3
+      internalID: -578129690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_51
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 364
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bec71bfc97cb347bcbfce50508fa3a
+      internalID: 1205342048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_52
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 376
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6449cb266ead64e828d8d4f2bbbddc
+      internalID: 2073322810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 376
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f2c6d60cdd2ba4bbb809b1d7a33fdb
+      internalID: -1973234706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 376
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7cb6ce02e20a941985637380ca04a4
+      internalID: -82282833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_55
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 334
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431f2d54b423370408a89f940c2cb4b6
+      internalID: -362980473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_56
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 368
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b98eafb843ddc46ae264710acba7cd
+      internalID: -1469510326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_57
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 320
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a3a2472b063f940a59c4d7de42f34f
+      internalID: -2023579454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_58
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 340
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8144d8cff592784893966106e18dadf
+      internalID: 469371765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_59
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 345
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af751cd000ddbc4cb14fa7cf9e289a7
+      internalID: 1402963798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_60
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 336
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b079ca7709c13845a6df24c670b3f95
+      internalID: 738489479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_61
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 325
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf61ccbe5586c849918c63b4ffb0d29
+      internalID: -926367178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_62
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 330
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dd0b1a324e5b743bb6cddf74c5b030
+      internalID: -903995440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_63
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 320
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716535ce925551b4fa2238ba6f8fd96d
+      internalID: -1261089337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_64
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 325
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a8cc0700bbe61488171181ee9de362
+      internalID: 1308181300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_65
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 336
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae158a1973532a458c6155641123858
+      internalID: 1594964051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_66
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 332
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54367dfd891418d44bb31eb004aa62d0
+      internalID: 1447101181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_67
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 326
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bee6372778a614ea8e0e7a1e148fed
+      internalID: 1492828954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_68
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 324
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d839ca37f44a29644bcf0873bade1e38
+      internalID: 958288121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_69
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 320
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041a1633349ea45428d28f35682350fe
+      internalID: -644325401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_70
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 320
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fb7a88d4795a1488312e631643a455
+      internalID: -2016019815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_71
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 248
+        width: 262
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0944f20ee2a69d0449d16a7e5560f28f
+      internalID: -2143441377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_72
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 288
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03483ff53f64be4aa0901185cb6cb5e
+      internalID: 790996982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_73
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 272
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb07855a9f1c78248b41ea18516b85bb
+      internalID: -26396550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_74
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 296
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbee203bc8d1296409a5e813efcbcbed
+      internalID: -1901144475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 280
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9483fdc1e14e840499e981be80a92d05
+      internalID: 443842230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_76
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 253
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1dca13e4fe02e48a507cb9768abd23
+      internalID: -1073998128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_77
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 253
+        width: 75
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c13560fcf59cb84bb3620dfbe7d7ff4
+      internalID: 1534300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_78
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 280
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357768812ca25854ca3b9131c2fd283e
+      internalID: -1774179179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_79
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 288
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412c540d8fc7f10479bbf5ef1d73037e
+      internalID: 960425678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_80
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 254
+        width: 78
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906ab0b88064d17468d991560cca9e0f
+      internalID: 731728147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_81
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 256
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3343311dc17590641b05193c7399d5d6
+      internalID: -1960194415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_82
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 256
+        width: 91
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d2d9ea5cbf5dd4b87d9fda8c2ca283
+      internalID: -1132648959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_83
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 256
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6d4f1904052a3489857ae9bb1baf52
+      internalID: 2018241484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_84
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 224
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ef2aae775b19a4d9a3ae31dd956b24
+      internalID: 1111662386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_85
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 264
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281b3ac9c7ec93c4bb9e695c6eb8beef
+      internalID: -763196809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_86
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 136
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba2c8a695545ed48bfba78ac236f3d6
+      internalID: -879740551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_87
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 197
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfaae86f8a3f3d4e832f8e815fd2ec3
+      internalID: 499544379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_88
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 145
+        width: 73
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757399abb9c50bd468c7ed5cf495174a
+      internalID: -386323215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_89
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 200
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b276d99317b6d644a90153ee9489f7f2
+      internalID: 1442224997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_90
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 192
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43546046f8968074aa1d08dce13b9530
+      internalID: 1529308639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_91
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 191
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41733c71a1dcf641bc16c1759289c81
+      internalID: 1972201437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_92
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 96
+        width: 63
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4268c89101ec97343af103ab17264be5
+      internalID: -31649382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_93
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 32
+        width: 240
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b089c6cbfc0314084c744f0a18efe5
+      internalID: -1572907291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_94
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 168
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc85b5df686e15458c78e708f16b54f
+      internalID: -477546508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_95
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 178
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b9f445b2f1c85489236b9e22d724b9
+      internalID: 2064268509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_96
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 176
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e33e42a93e33ab4b9b0bf58218ddb26
+      internalID: -642175959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_97
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 71
+        width: 67
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3098e9ae46bba4741bc38b86dab19701
+      internalID: -1155074957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_98
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 176
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9c55b9498ec354286f7000eb8dbbe6
+      internalID: 1150323905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_99
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 95
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4229d02eeeecb44ae0b19315fff132
+      internalID: 1475511305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_100
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 160
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3edb5be35f6b944a928fd2e2a08e00f
+      internalID: 1427951706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_101
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 160
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b20449802799248af56933f2699020
+      internalID: -1834851903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_102
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 160
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d037c16ba6c1442899315d07bed59f
+      internalID: 345885945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_103
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 128
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774be78c98d8fe54d8417032670d3676
+      internalID: 1193008733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_104
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 139
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a8bfb8341a889479bf2863a4f48994
+      internalID: -2125047399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_105
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 130
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dff3a20f812ce44da734f98a143b797
+      internalID: 1839188865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_106
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 136
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471a5bfd6b66caf44a3d86f0c53cf5c8
+      internalID: -1827364502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_107
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 116
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc902465dc443544b383ab2d93ed716
+      internalID: 797664257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_108
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 126
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3deb956ffd8184582c86bfa819211b
+      internalID: 1531775167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_109
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 112
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49487df5425c284daceb33e6fe21c0b
+      internalID: 1224059925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_110
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 84
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22050ca96e54c1d45976634ab38deb1e
+      internalID: -1980072866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_111
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 92
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaf2fcb76d7f2f4ab3a16f98a565064
+      internalID: 1527173122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_112
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 93
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f5b75f64ff7724da67ac5feceee813
+      internalID: 999538819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_113
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 32
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143f52a4a7542304a9032ebb0e2f3a8b
+      internalID: -1777661827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_114
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 44
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b65ab4c82c911c40b9a914a9d55c61c
+      internalID: 1559786767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_115
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 32
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817fc730487a5e24885271d919f73260
+      internalID: -1759475035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_116
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 69
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6526aa889b8af3c4587e531c85e9a2cc
+      internalID: 1382841086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_117
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 61
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1856f686566bb3043adf6e45ccd4548c
+      internalID: 1670229155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_118
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 64
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c16468f9d88be049988b2a47559fa5d
+      internalID: 1733824560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_119
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 56
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b282f716b6e414148af4afa622c9436a
+      internalID: -1416014194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_120
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 51
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555aabd6355d80642a2535dfb0f59e2f
+      internalID: 1339295187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_121
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 41
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aa039d9df99234e86845abafcdccd1
+      internalID: 1498425938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_122
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 32
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a03288bfcba4ef4c965166d25d68824
+      internalID: 1491013770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_123
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 41
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62289d0028fda2c4e8a95b798c837a5e
+      internalID: 1664256898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_124
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 34
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40f54042d6a636448c0761a4f34f158
+      internalID: 1017326308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_125
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 30
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497e98171fc5b9e48a7cc36829e3db73
+      internalID: 2133418007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_126
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 24
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1905f6a075729594591e5be5f2d57459
+      internalID: 1913214724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_127
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 529
+        width: 314
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a21ca44451663141a74c9df5d171698
+      internalID: -827484716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv room assets_128
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 515
+        width: 301
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b62f3d6f206b64e9f5d622c217070a
+      internalID: 163817413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tv room assets_0: 1218493776
+      tv room assets_1: 728511354
+      tv room assets_10: 1724484245
+      tv room assets_100: 1427951706
+      tv room assets_101: -1834851903
+      tv room assets_102: 345885945
+      tv room assets_103: 1193008733
+      tv room assets_104: -2125047399
+      tv room assets_105: 1839188865
+      tv room assets_106: -1827364502
+      tv room assets_107: 797664257
+      tv room assets_108: 1531775167
+      tv room assets_109: 1224059925
+      tv room assets_11: -386052001
+      tv room assets_110: -1980072866
+      tv room assets_111: 1527173122
+      tv room assets_112: 999538819
+      tv room assets_113: -1777661827
+      tv room assets_114: 1559786767
+      tv room assets_115: -1759475035
+      tv room assets_116: 1382841086
+      tv room assets_117: 1670229155
+      tv room assets_118: 1733824560
+      tv room assets_119: -1416014194
+      tv room assets_12: -1013411320
+      tv room assets_120: 1339295187
+      tv room assets_121: 1498425938
+      tv room assets_122: 1491013770
+      tv room assets_123: 1664256898
+      tv room assets_124: 1017326308
+      tv room assets_125: 2133418007
+      tv room assets_126: 1913214724
+      tv room assets_127: -827484716
+      tv room assets_128: 163817413
+      tv room assets_13: 1612758143
+      tv room assets_14: -240246862
+      tv room assets_15: 1966959012
+      tv room assets_16: -118751437
+      tv room assets_17: -1466179912
+      tv room assets_18: -1341377695
+      tv room assets_19: 1491532235
+      tv room assets_2: 1750135148
+      tv room assets_20: -1336050427
+      tv room assets_21: 883972665
+      tv room assets_22: 1226475141
+      tv room assets_23: -684861923
+      tv room assets_24: -463508996
+      tv room assets_25: 488620006
+      tv room assets_26: 1239450230
+      tv room assets_27: 1493097184
+      tv room assets_28: 165412062
+      tv room assets_29: 1074071439
+      tv room assets_3: 738677157
+      tv room assets_30: 336402740
+      tv room assets_31: -138624387
+      tv room assets_32: 265228068
+      tv room assets_33: 2142840197
+      tv room assets_34: -1531685873
+      tv room assets_35: -1204067199
+      tv room assets_36: 635545886
+      tv room assets_37: -586193907
+      tv room assets_38: -1994077202
+      tv room assets_39: -1656540284
+      tv room assets_4: 287903453
+      tv room assets_40: 1767130866
+      tv room assets_41: 1325235998
+      tv room assets_42: -1617669811
+      tv room assets_43: 453726483
+      tv room assets_44: -2076078385
+      tv room assets_45: -633489884
+      tv room assets_46: -1538732906
+      tv room assets_47: 359798959
+      tv room assets_48: 603746532
+      tv room assets_49: -481114686
+      tv room assets_5: 1275311269
+      tv room assets_50: -578129690
+      tv room assets_51: 1205342048
+      tv room assets_52: 2073322810
+      tv room assets_53: -1973234706
+      tv room assets_54: -82282833
+      tv room assets_55: -362980473
+      tv room assets_56: -1469510326
+      tv room assets_57: -2023579454
+      tv room assets_58: 469371765
+      tv room assets_59: 1402963798
+      tv room assets_6: -56718071
+      tv room assets_60: 738489479
+      tv room assets_61: -926367178
+      tv room assets_62: -903995440
+      tv room assets_63: -1261089337
+      tv room assets_64: 1308181300
+      tv room assets_65: 1594964051
+      tv room assets_66: 1447101181
+      tv room assets_67: 1492828954
+      tv room assets_68: 958288121
+      tv room assets_69: -644325401
+      tv room assets_7: 1879059760
+      tv room assets_70: -2016019815
+      tv room assets_71: -2143441377
+      tv room assets_72: 790996982
+      tv room assets_73: -26396550
+      tv room assets_74: -1901144475
+      tv room assets_75: 443842230
+      tv room assets_76: -1073998128
+      tv room assets_77: 1534300448
+      tv room assets_78: -1774179179
+      tv room assets_79: 960425678
+      tv room assets_8: 1366583663
+      tv room assets_80: 731728147
+      tv room assets_81: -1960194415
+      tv room assets_82: -1132648959
+      tv room assets_83: 2018241484
+      tv room assets_84: 1111662386
+      tv room assets_85: -763196809
+      tv room assets_86: -879740551
+      tv room assets_87: 499544379
+      tv room assets_88: -386323215
+      tv room assets_89: 1442224997
+      tv room assets_9: -3974316
+      tv room assets_90: 1529308639
+      tv room assets_91: 1972201437
+      tv room assets_92: -31649382
+      tv room assets_93: -1572907291
+      tv room assets_94: -477546508
+      tv room assets_95: 2064268509
+      tv room assets_96: -642175959
+      tv room assets_97: -1155074957
+      tv room assets_98: 1150323905
+      tv room assets_99: 1475511305
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
